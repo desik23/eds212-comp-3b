@@ -4,4 +4,8 @@ Project to practice making and working with vectors in R &amp; Python
 
 - Test Bullets
 
-_ Landing Page
+- Landing Page
+
+
+
+## Wow!
